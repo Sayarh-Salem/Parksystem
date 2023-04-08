@@ -10,8 +10,10 @@ The manager of the parking garage should be able to ask the system for the posit
 Functionality
 The Parking Garage Simulation Program has the following functionalities:
 
-*Ability to add and remove vehicles (cars and motorcycles) with unique ID (license plate)
-*Parking space assignment for vehicles entering the garage
-*Rejecting vehicles if there are no available parking spaces
-*Ability to query the position of a specific vehicle (floor and parking space)
-*Query the number of available parking spaces
+* Ability to add and remove vehicles (cars and motorcycles) with unique ID (license plate)
+* Parking space assignment for vehicles entering the garage
+* Rejecting vehicles if there are no available parking spaces
+* Ability to query the position of a specific vehicle (floor and parking space)
+* Query the number of available parking spaces
+
+Please note that the username for the login is "username" and the password is "password123".
